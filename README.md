@@ -1,1 +1,1 @@
-Repo for bash script practise
+Bash scripting code here
